@@ -1,1 +1,1 @@
-== JumpStart Lab Curriculum - Rails Blogger App Tutorial
+# JumpStart Lab Curriculum - Rails Blogger App Tutorial
