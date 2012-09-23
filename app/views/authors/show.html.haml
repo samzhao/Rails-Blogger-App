@@ -1,0 +1,12 @@
+%p#notice= notice
+
+%p
+  %b Username:
+  = @author.username
+%p
+  %b Email:
+  = @author.email
+
+= link_to 'Edit', edit_author_path(@author)
+\|
+= link_to 'Back', authors_path
